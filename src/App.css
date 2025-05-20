@@ -1,0 +1,31 @@
+:root{
+  ---primaryColor:#DFD0B8;
+  ---bgcolor1: #222831;
+  ---fontColor1:#948979;
+  ---bgColor2: #393E46
+
+  
+}
+#root{
+  padding:0;
+}
+
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  color:var(---fontColor1);
+  background-color: var(---bgColor2);
+  margin:0;
+}
+
+
+h2{
+  text-align: left;
+  color:'#DFD0B8';
+  margin-bottom: 0;
+}
+
+div{
+  padding: 0.5rem;
+}
